@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awisa-cpu
+- 👋 Hi, I’m @I_AM_AWISA_DESTINY
 - 👀 I’m interested in developing with Java and Python
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on OPERATING system build 
