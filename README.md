@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @I_AM_AWISA_DESTINY
-- 👀 I’m interested in developing with Java, Kotlin and flutter for Mobile , Backend and Enterprise Projects
-- 🌱 I’m currently learning JAVA and Kotlin language
-- 💞️ I’m open to collaborate on Backend development,  Andriod and Cross-Platform apps build and Enterprise build projects
+- 👀 I’m interested in developing with flutter + dart for Mobile development , Backend and Enterprise Projects with Java
+- 🌱 I’m currently working with Flutter and learning Java alongside...
+- 💞️ I’m open to collaborate on  Andriod and Cross-Platform apps build and Enterprise build projects with Java
 - 📫 How to reach me ...
 
 <!---
