@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I_AM_AWISA_DESTINY
 - 👀 I’m interested in developing with flutter + dart for Mobile both Andriod and IOS, Web app and Desktop development
-- 🌱 I’m currently working with Flutter as a mobile developer
+- 🌱 I’m currently working as an intern @Softkodes LLC  as a mobile developer
 - 💞️ I’m open to collaborate on  Andriod and Cross-Platform apps build as well as Web app and Desktop applications 
 - 📫 How to reach me ... @destinyawisa@gmail.com
 
